@@ -35,6 +35,8 @@ Data platform engineers who catalog datasets and trace lineage.
 
 ## Patterns (planned)
 
+**Nothing below exists yet.**
+
 | # | Example | What it will demonstrate |
 |---|---------|--------------------------|
 | 01 | `01-first-ingestion` | Ingesting a database source into the catalog |
